@@ -1,3 +1,6 @@
 <resources>
 	<string name="app_name">Pet</string>
+	<string name="network_error_message">Connection error. Please, retry connection</string>
+	<string name="service_unavailable_error_message">Service temporarily unavailable. Try again later</string>
+	<string name="unknown_error_message">Something is wrong. Try again later</string>
 </resources>
